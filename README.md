@@ -1,4 +1,4 @@
-#Sample UNIX SHELL SCRIPTING Project:
+# Sample UNIX SHELL SCRIPTING Project:
 
 I present a sample project that highlights using unix shell scripting to work with files.
 
